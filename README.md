@@ -26,4 +26,6 @@ This table lists all coding lab notebooks and exercise notebooks:
 | Tue, Feb 7, afternoon session     |  Machine Learning II<br/>(k Nearest-Neighbors)      |  |  |  |
 | Wed, Feb 8, morning session       |  Deep Learning I<br/>(Artificial Neural Nets)       |  |  |  |
 | Wed, Feb 8, afternoon session     |  Deep Learning II<br/>(Convolutional Neural Nets)   |  |  |  |
+| Thu, Feb 9, morning session     |  Using ML APIs with Python <br/>(Google Cloud Vision)   |  |  |  |
+| Thu, Feb 9, afternoon session     |  Using Language Models with Python <br/>(Transformers Library)   |  |  |  |
 | < TBD                             |  Exam Exercise                                      |  |  |  |
