@@ -26,6 +26,6 @@ This table lists all coding lab notebooks and exercise notebooks:
 | Tue, Feb 7, afternoon session     |  Machine Learning II<br/>(k Nearest-Neighbors)      |  |  |  |
 | Wed, Feb 8, morning session       |  Deep Learning I<br/>(Artificial Neural Nets)       |  |  |  |
 | Wed, Feb 8, afternoon session     |  Deep Learning II<br/>(Convolutional Neural Nets)   |  |  |  |
-| Thu, Feb 9, morning session     |  Using ML APIs with Python <br/>(Google Cloud Vision)   |  |  |  |
+| Thu, Feb 9, morning session     |  Using ML APIs with Python <br/>(Google Cloud Vision)   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/EMBA2023-Lab/main?filepath=lab_06%2Flab_06.ipynb)</br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/EMBA2023-Lab/blob/main/lab_06/lab_06.ipynb)   |  |  |
 | Thu, Feb 9, afternoon session     |  Using Language Models with Python <br/>(Transformers Library)   |  |  |  |
 | < TBD                             |  Exam Exercise                                      |  |  |  |
